@@ -39,5 +39,5 @@ There are some key commands:
 * `pwd` "Print working directory" Used to display the current working directory.
 * `cd <path>` "Change Directory" Used to switch the current working directory to the given path.
 
-***That is all for the report 
+### That is all for the report 
 
