@@ -10,7 +10,10 @@
 
 ![Image](VScode.png)
 
-## 2. Remotely Connecting 
+## 2. Remotely Connecting
+1. Look up your course-specific account for CSE15L here: [Your Specific Account](https://sdacs.ucsd.edu/~icc/index.php).
+2. You need to follow the instructions and reset the password. Here is a tutorial: [How to Reset Your Password](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit).
+3. 
 
 ## 3. Trying Some Commands
 
