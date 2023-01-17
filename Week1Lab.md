@@ -21,7 +21,13 @@
 ## 3. Trying Some Commands
 After you success in remotely connecting, you can try some commands in your terminal. There are some following commands that you can put in the terminal.
 
-* 
+* `cd ~`
+* `cd`
+* `ls -lat`
+* `ls -a`
+* `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lwi23/cs15lwi23abc`, where the `abc` is the letters in your course-specific account
+* `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
+* `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
 
 ![Image](Commands.png)
 
