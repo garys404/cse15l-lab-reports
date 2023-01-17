@@ -19,7 +19,9 @@
 ![Image](RemotelyConnecting.png)
 
 ## 3. Trying Some Commands
-After you success in remotely connecting, you can try some commands in your terminal. There are some following commands.
+After you success in remotely connecting, you can try some commands in your terminal. There are some following commands that you can put in the terminal.
+
 * 
 
+![Image](Commands.png)
 
