@@ -33,3 +33,11 @@ The output will be like the following image.
 
 ![Image](Commands.png)
 
+There are some key commands:
+* `cat <path1> <path2>` Prints the contents of one or more files given by the paths.
+* `ls <path>` "List" Used to list the files and folders the given path.
+* `pwd` "Print working directory" Used to display the current working directory.
+* `cd <path>` "Change Directory" Used to switch the current working directory to the given path.
+
+***That is all for the report 
+
