@@ -29,5 +29,7 @@ After you success in remotely connecting, you can try some commands in your term
 * `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
 * `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
 
+The output will be like the following image.
+
 ![Image](Commands.png)
 
