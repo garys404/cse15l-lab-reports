@@ -1,4 +1,4 @@
-# WEEK 1 Lab Report
+# Lab Report 1
 ## 1. Installing VScode
 1. Click the link: [How to Download Vscode](https://code.visualstudio.com/). The image of the link will be like that.
 
