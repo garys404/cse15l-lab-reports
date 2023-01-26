@@ -6,9 +6,23 @@
 
 2. Follow the steps of that website, find the suitable version for your computer, and download the VS code.
 
-3. Open the VScode, and go to the terminal at the bottom. That is the place we need to put our commands.
+3. Open the VScode, and you should create "new file" or click "open" to open a file. It is like the following graph.
+
+![Image](123.png)
+
+4. After you open a file, you should click the second button circled with red in the top right corner to open terminal.
+
+![Image](12345.png)
+
+5. Next, you should click the "terminal", and put your commands at the red arrow.
+
+![Image](1234567.png)
+
+6. 
 
 ![Image](VScode.png)
+
+
 
 ## 2. Remotely Connecting
 1. Look up your course-specific account for CSE15L here: [Your Specific Account](https://sdacs.ucsd.edu/~icc/index.php).
