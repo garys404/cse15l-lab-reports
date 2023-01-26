@@ -53,7 +53,7 @@ There are some key commands:
 * `pwd` "Print working directory" Used to display the current working directory.
 * `cd <path>` "Change Directory" Used to switch the current working directory to the given path.
 * `cp /home/linux/ieng6/cs15lwi23/public/hello/txt ~/` Used to copy the hello.txt of original directory to home directory.
-* `la -a` Used to list the component of .file of current directory
+* `ls -a` Used to list the component of .file of current directory
 
 ### That is all for the report 
 
