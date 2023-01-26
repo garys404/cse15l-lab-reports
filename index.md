@@ -18,7 +18,7 @@
 
 ![Image](1234567.png)
 
-6. 
+6. Congraduation! You can put your commands in the right way.
 
 ![Image](VScode.png)
 
@@ -52,6 +52,8 @@ There are some key commands:
 * `ls <path>` "List" Used to list the files and folders the given path.
 * `pwd` "Print working directory" Used to display the current working directory.
 * `cd <path>` "Change Directory" Used to switch the current working directory to the given path.
+* `cp /home/linux/ieng6/cs15lwi23/public/hello/txt ~/` Used to copy the hello.txt of original directory to home directory.
+* `la -a` Used to list the component of .file of current directory
 
 ### That is all for the report 
 
