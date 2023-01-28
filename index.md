@@ -47,13 +47,14 @@ The output will be like the following image.
 
 ![Image](Commands.png)
 
-There are some key commands:
+There are some key commands that you may be confused:
 * `cat <path1> <path2>` Prints the contents of one or more files given by the paths.
 * `ls <path>` "List" Used to list the files and folders the given path.
 * `pwd` "Print working directory" Used to display the current working directory.
 * `cd <path>` "Change Directory" Used to switch the current working directory to the given path.
 * `cp /home/linux/ieng6/cs15lwi23/public/hello/txt ~/` Used to copy the hello.txt of original directory to home directory.
-* `ls -a` Used to list the component of .file of current directory
+* `ls` Used to list the components of the current directory.
+* `ls -a` Used to list the components of .file of current directory.
 * `ls -lat` Used to show the modify information of each file.
 
 ### That is all for the report 
