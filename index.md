@@ -52,6 +52,7 @@ There are some key commands that you may be confused:
 * `ls <path>` "List" Used to list the files and folders the given path.
 * `pwd` "Print working directory" Used to display the current working directory.
 * `cd <path>` "Change Directory" Used to switch the current working directory to the given path.
+* `cd ~` Used to change directory to the home directory.
 * `cp /home/linux/ieng6/cs15lwi23/public/hello/txt ~/` Used to copy the hello.txt of original directory to home directory.
 * `ls` Used to list the components of the current directory.
 * `ls -a` Used to list the components of .file of current directory.
