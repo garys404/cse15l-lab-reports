@@ -2,25 +2,25 @@
 ## 1. Installing VScode
 1. Click the link: [How to Download Vscode](https://code.visualstudio.com/). The image of the link will be like that.
 
-![Image](VScodeDownload.png)
+ ![Image](VScodeDownload.png)
 
 2. Follow the steps of that website, find the suitable version for your computer, and download the VS code.
 
 3. Open the VScode, and you should create "new file" or click "open" to open a file. It is like the following graph.
 
-![Image](123.png)
+ ![Image](123.png)
 
 4. After you open a file, you should click the second button circled with red in the top right corner to open terminal.
 
-![Image](12345.png)
+ ![Image](12345.png)
 
 5. Next, you should click the "terminal", and put your commands at the red arrow.
 
-![Image](1234567.png)
+ ![Image](1234567.png)
 
 6. Congraduation! You can put your commands in the right way.
 
-![Image](VScode.png)
+ ![Image](VScode.png)
 
 
 
